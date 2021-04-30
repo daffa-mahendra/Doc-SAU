@@ -9,7 +9,7 @@
 
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    Dokumentasi: ['INT', 'DB', 'PNG', 'SRT', 'MTR', 'PS', 'RA', 'BNT'],
+    Fitur: ['mdx'],
   },
 };
