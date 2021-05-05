@@ -9,7 +9,7 @@
 
 module.exports = {
   someSidebar: {
-    Dokumentasi: ['INT', 'DB', 'PNG', 'SRT', 'MTR', 'PS', 'RA', 'BNT'],
+    Dokumentasi: ['INT', 'DB', 'PNG', 'SRT', 'MTR', 'PS', 'BNT', 'RA'],
     Fitur: ['mdx'],
   },
 };

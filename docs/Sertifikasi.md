@@ -3,40 +3,100 @@ id: SRT
 title: Sertifikasi
 ---
 
-### Master Mata Ujian
+### • Master Mata Ujian
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
+Master Mata Ujian, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk menambahkan mata ujian.
 
----
+Cara untuk menambahkan Master Mata Ujian adalah sebagai berikut :
 
-### Master Sertifikasi
+#### 1. Klik tombol tambah
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
+![image](/img/Tambah.png)
 
----
+#### 2. Isi data yang sesuai
 
-### Periode Ujian
+![image](/img/MMU_data2.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
+#### 3. Lalu klik simpan
 
----
 
-### Jadwal Sertifikasi
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
 
 ---
 
-### Data Peserta
+### • Master Sertifikasi
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
+Master sertifikasi, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk menambahkan sertifikasi.
+
+Cara untuk menambahkan Master Sertifikasi adalah sebagai berikut :
+
+#### 1. Klik tombol tambah
+
+![image](/img/Tambah.png)
+
+#### 2. Isi data yang sesuai
+
+![image](/img/MS_data2.png)
+
+#### 3. Lalu klik simpan
+
 
 ---
 
-### Riwayat Peserta
+### • Periode Ujian
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor.
+Periode Ujian, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk menambahkan periode berlangsung nya ujian.
+
+Cara untuk menambahkan Periode Ujian adalah sebagai berikut :
+
+#### 1. Klik tombol tambah
+
+![image](/img/Tambah.png)
+
+#### 2. Isi data yang sesuai
+
+![image](/img/PU_data2.jpeg)
+
+#### 3. Lalu klik simpan
+
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### • Jadwal Sertifikasi
+
+Jadwal Sertifikasi, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk menambahkan jadwal berlangsung nya sertifikasi.
+
+Cara untuk menambahkan Jadwal Sertifikasi adalah sebagai berikut :
+
+#### 1. Klik tombol tambah
+
+![image](/img/Tambah.png)
+
+#### 2. Isi data yang sesuai
+
+
+
+#### 3. Lalu klik simpan
+
+---
+
+### • Data Peserta
+
+Data Peserta, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk melihat data dari para peserta yang mengikuti sertifikasi.
+
+Berikut tampilan nya: 
+
+![image](/img/Tambah.png)
+
+---
+
+### • Riwayat Peserta
+
+Riwayat Peserta, adalah fitur dari aplikasi `KP3SKP Sistem Admin Ujian` untuk melihat data dari para peserta yang mendaftar sertifikasi.
+
+Berikut tampilan nya: 
+
+![image](/img/Tambah.png)
+
+---
+
+
